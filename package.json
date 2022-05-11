@@ -31,7 +31,7 @@
     "eslint-plugin-prettier": "3.1.2",
     "highlight.js": "10.7.2",
     "http-server": "^14.1.0",
-    "mocha": "^6.2.3",
+    "mocha": "10.0.0",
     "mocha-junit-reporter": "1.23.3",
     "mocha-multi-reporters": "1.1.7",
     "mochawesome": "^7.1.3",
