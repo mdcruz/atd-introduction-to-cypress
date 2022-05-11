@@ -1,0 +1,6 @@
+node_modules/
+cypress/videos
+cypress/screenshots
+dist
+npm-debug.log
+.DS_Store

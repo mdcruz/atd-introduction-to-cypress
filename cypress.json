@@ -1,0 +1,16 @@
+{
+  "viewportWidth": 600,
+  "viewportHeight": 800,
+  "ignoreTestFiles": [
+    "**/answer/*",
+    "*answer.js",
+    "*answer-*-*.js",
+    "*.d.ts",
+    "**/__snapshots__/*",
+    "**/__image_snapshots__/*"
+  ],
+  "baseUrl": "http://localhost:3001/",
+  "env": {},
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "experimentalStudio": true
+}
