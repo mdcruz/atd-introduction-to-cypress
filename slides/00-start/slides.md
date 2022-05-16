@@ -13,7 +13,6 @@
 
 Create a new folder
 
-- `cd /tmp`
 - `mkdir example`
 - `cd example`
 - `npm init --yes`
