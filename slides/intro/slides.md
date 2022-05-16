@@ -52,6 +52,7 @@ You will need:
 
 - `git` to clone this repo
 - Node v16+ to install project dependencies
+- VSCode or another text editor
 
 ```text
 git clone https://github.com/mdcruz/atd-introduction-to-cypress
