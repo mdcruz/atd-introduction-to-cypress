@@ -29,7 +29,7 @@ npm install
 ## Starting the Todo Application
 
 ```bash
-cd todomvc #if you're not in todomvc folder yet, otherwise ignore this
+cd todomvc # if you're not in todomvc folder yet, otherwise ignore this
 npm start
 ```
 
@@ -57,6 +57,7 @@ and you should see in the terminal
 Open another terminal window and then type
 
 ```bash
+cd atd-introduction-to-cypress
 npm run cy:open
 ```
 
