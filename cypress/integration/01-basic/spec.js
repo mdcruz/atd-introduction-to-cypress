@@ -7,7 +7,7 @@ it('loads', () => {
   // this assertion fails on purpose
   // can you fix it?
   // https://on.cypress.io/get
-  cy.contains('h1', 'todos')
+  cy.contains('h1', 'Todo app')
 
   // also good practice is to use data attributes specifically for testing
   // see https://on.cypress.io/best-practices#Selecting-Elements
